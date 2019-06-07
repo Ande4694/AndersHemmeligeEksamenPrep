@@ -2,8 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eac7aca2-1868-40f9-bd97-559bda104dd7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../ApplicationLayer-Webserver/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ApplicationLayer-Webserver/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ApplicationLayer-Webserver/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Decorator/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Decorator/Decorator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Decorator/src/com/company/Cheese.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Decorator/src/com/company/Pepperoni.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Decorator/src/com/company/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Decorator/src/com/company/PizzaDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Decorator/src/com/company/SimplePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Decorator/src/com/company/TomatoSauce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory/src/com/company/Bernard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory/src/com/company/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory/src/com/company/Labrador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory/src/com/company/Poodle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory/src/com/company/VovseFabrik.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Memento/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Memento/src/com/company/Caretaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Memento/src/com/company/Memento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Memento/src/com/company/Originator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Singleton/src/com/company/Singelton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Singleton/src/com/company/SingeltonThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Singleton/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Singleton/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Singleton/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Singleton/src/com/company/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Webserver" beforeDir="false" afterPath="$PROJECT_DIR$/../Webserver" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../devops" beforeDir="false" afterPath="$PROJECT_DIR$/../devops" afterDir="false" />
     </list>
@@ -19,8 +41,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/MergeSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="46" selection-start-line="1" selection-start-column="46" selection-end-line="1" selection-end-column="46" />
+            <state relative-caret-position="85">
+              <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -39,10 +61,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="20" />
-    <option name="y" value="-14" />
-    <option name="width" value="1937" />
-    <option name="height" value="1057" />
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="820" />
+    <option name="height" value="559" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -58,7 +80,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559733924361" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559749111964" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -116,31 +138,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559726942011</updated>
-      <workItem from="1559726943798" duration="2394000" />
+      <workItem from="1559726943798" duration="3061000" />
+      <workItem from="1559903380700" duration="600000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2394000" />
+    <option name="totallyTimeSpent" value="3661000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25302014" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Sequence" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936507" />
@@ -148,15 +164,22 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Sequence" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
     </layout>
     <layout-to-restore>
       <window_info id="Image Layers" order="0" />
@@ -196,8 +219,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/MergeSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="46" selection-start-line="1" selection-start-column="46" selection-end-line="1" selection-end-column="46" />
+        <state relative-caret-position="85">
+          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
         </state>
       </provider>
     </entry>
