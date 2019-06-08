@@ -2,32 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6577cb7-fc4f-477c-a664-e7cbfb82016f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Decorator.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Cheese.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Pepperoni.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/PizzaDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/SimplePizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/TomatoSauce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Factory/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Factory/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Factory/src/com/company/Bernard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Factory/src/com/company/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Factory/src/com/company/Labrador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Factory/src/com/company/Poodle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Factory/src/com/company/VovseFabrik.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Memento/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Memento/src/com/company/Caretaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Memento/src/com/company/Memento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Memento/src/com/company/Originator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Singleton/src/com/company/Singelton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Singleton/src/com/company/SingeltonThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Threads/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multiClientChat/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ApplicationLayer-Webserver/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ApplicationLayer-Webserver/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decorator/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Decorator/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decorator/com/company/SimplePizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Decorator/com/company/SimplePizza.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Factory/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Factory/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Memento/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Memento/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MergeSort/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MergeSort/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Singleton/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Singleton/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Singleton/src/com/company/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Webserver" beforeDir="false" afterPath="$PROJECT_DIR$/../Webserver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../counting sort" beforeDir="false" afterPath="$PROJECT_DIR$/../counting sort" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../devops" beforeDir="false" afterPath="$PROJECT_DIR$/../devops" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flyweight" beforeDir="false" afterPath="$PROJECT_DIR$/../flyweight" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multiClientChat/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../multiClientChat/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,7 +32,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
-              <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -145,11 +135,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="y" value="-10" />
-    <option name="width" value="820" />
-    <option name="height" value="559" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="y" value="20" />
+    <option name="width" value="1405" />
+    <option name="height" value="1030" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -179,14 +168,15 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559749112057" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559912743541" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ApplicationLayer-Webserver" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -228,18 +218,19 @@
       <option name="presentableId" value="Default" />
       <updated>1559742063817</updated>
       <workItem from="1559742065837" duration="1971000" />
-      <workItem from="1559903382361" duration="587000" />
+      <workItem from="1559903382361" duration="1221000" />
+      <workItem from="1559988984341" duration="1074000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2558000" />
+    <option name="totallyTimeSpent" value="4266000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25302014" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25637585" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -248,7 +239,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936507" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936507" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -282,7 +273,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
-          <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>

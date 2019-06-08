@@ -2,32 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eac7aca2-1868-40f9-bd97-559bda104dd7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Decorator/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Decorator/Decorator.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Decorator/src/com/company/Cheese.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Decorator/src/com/company/Pepperoni.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Decorator/src/com/company/Pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Decorator/src/com/company/PizzaDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Decorator/src/com/company/SimplePizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Decorator/src/com/company/TomatoSauce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Factory/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Factory/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Factory/src/com/company/Bernard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Factory/src/com/company/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Factory/src/com/company/Labrador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Factory/src/com/company/Poodle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Factory/src/com/company/VovseFabrik.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Memento/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Memento/src/com/company/Caretaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Memento/src/com/company/Memento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Memento/src/com/company/Originator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Singleton/src/com/company/Singelton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Singleton/src/com/company/SingeltonThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Threads/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multiClientChat/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ApplicationLayer-Webserver/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ApplicationLayer-Webserver/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Decorator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Decorator/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Decorator/out/production/Decorator/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Decorator/out/production/Decorator/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Decorator/out/production/Decorator/com/company/SimplePizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Decorator/out/production/Decorator/com/company/SimplePizza.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Decorator/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Decorator/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Factory/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Factory/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Memento/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Memento/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Singleton/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Singleton/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Singleton/src/com/company/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Webserver" beforeDir="false" afterPath="$PROJECT_DIR$/../Webserver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../counting sort" beforeDir="false" afterPath="$PROJECT_DIR$/../counting sort" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../devops" beforeDir="false" afterPath="$PROJECT_DIR$/../devops" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flyweight" beforeDir="false" afterPath="$PROJECT_DIR$/../flyweight" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multiClientChat/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../multiClientChat/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -60,11 +50,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="y" value="-10" />
-    <option name="width" value="820" />
-    <option name="height" value="559" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="y" value="20" />
+    <option name="width" value="1405" />
+    <option name="height" value="1030" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -72,9 +61,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -140,17 +129,18 @@
       <updated>1559726942011</updated>
       <workItem from="1559726943798" duration="3061000" />
       <workItem from="1559903380700" duration="600000" />
+      <workItem from="1559988998548" duration="587000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3661000" />
+    <option name="totallyTimeSpent" value="4248000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25302014" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25637585" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
