@@ -1,10 +1,9 @@
-package Multi;
+package single;
 
 import java.io.DataOutputStream;
 import java.io.IOException;
 import java.net.ServerSocket;
 import java.net.Socket;
-import java.util.Calendar;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
@@ -24,6 +23,7 @@ public class ChatServer {
 
         while (true) {
             Socket socket = serverSocket.accept();
+            //blokere
             System.out.println("ServerSocket.accept");
 
             ClientHandler clientHandler = new ClientHandler(socket);

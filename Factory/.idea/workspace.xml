@@ -2,22 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25e09e8d-ea85-4ed5-bd52-07809c83a226" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Threads/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../multiClientChat/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ApplicationLayer-Webserver/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ApplicationLayer-Webserver/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ApplicationLayer-Webserver/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ApplicationLayer-Webserver/src/com/company/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Decorator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Decorator/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Decorator/out/production/Decorator/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Decorator/out/production/Decorator/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Decorator/out/production/Decorator/com/company/SimplePizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Decorator/out/production/Decorator/com/company/SimplePizza.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Decorator/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Decorator/src/com/company/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Memento/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Memento/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Memento/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Memento/src/com/company/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MergeSort/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MergeSort/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Singleton/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Singleton/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Threads/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Threads/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Threads/src/com/company/join/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Threads/src/com/company/join/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Webserver" beforeDir="false" afterPath="$PROJECT_DIR$/../Webserver" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../counting sort" beforeDir="false" afterPath="$PROJECT_DIR$/../counting sort" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../devops" beforeDir="false" afterPath="$PROJECT_DIR$/../devops" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../flyweight" beforeDir="false" afterPath="$PROJECT_DIR$/../flyweight" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../multiClientChat/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../multiClientChat/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multiClientChat/src/Multi/ChatServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../multiClientChat/src/single/ChatServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multiClientChat/src/Multi/Client1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../multiClientChat/src/single/Client1.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,8 +32,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="255">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -112,10 +113,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="y" value="20" />
-    <option name="width" value="1405" />
-    <option name="height" value="1030" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="820" />
+    <option name="height" value="559" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -197,15 +199,15 @@
       <updated>1559743450042</updated>
       <workItem from="1559743451628" duration="1885000" />
       <workItem from="1559903387039" duration="2189000" />
-      <workItem from="1559988999088" duration="587000" />
+      <workItem from="1559988999088" duration="1812000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4661000" />
+    <option name="totallyTimeSpent" value="5886000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25637585" />
@@ -243,18 +245,6 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/company/Main.java</url>
-          <line>15</line>
-          <properties />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/Color.java" />
     <entry file="file://$PROJECT_DIR$/src/com/company/Red.java" />
@@ -263,8 +253,8 @@
     <entry file="file://$PROJECT_DIR$/src/com/company/FarveFabrikken.java" />
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>

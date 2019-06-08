@@ -9,6 +9,8 @@ public class Main {
         
         System.out.println(pizza.getDescription());
         System.out.println(pizza.getPrice());
+        System.out.println(pizza);
+
 
         pizza = new TomatoSauce(pizza);
         pizza = new Cheese(pizza);
@@ -17,6 +19,8 @@ public class Main {
 
         System.out.println(pizza.getDescription());
         System.out.println(pizza.getPrice());
+        System.out.println(pizza);
+
 
     }
 }

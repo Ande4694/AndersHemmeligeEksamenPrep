@@ -22,6 +22,8 @@ public class Main {
         originator.getStateFromMemento(caretaker.get(0));
         System.out.println("current state : " + originator.getState());
 
+        originator.getStateFromMemento(caretaker.get(1));
+        System.out.println("current state : " + originator.getState());
 
     }
 }
